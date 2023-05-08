@@ -1,0 +1,106 @@
+    {
+        label = "Chicago Bedroom",
+        furniture = {
+            {
+                label = "Bed 1a",
+                object = "aegrien_bed1_a",
+                price = 750,
+            },
+            {
+                label = "Bed 1b",
+                object = "aegrien_bed1_b",
+                price = 750,
+            },
+            {
+                label = "Bed 1c",
+                object = "aegrien_bed1_c",
+                price = 750,
+            },
+            {
+                label = "Bed 1d",
+                object = "aegrien_bed1_d",
+                price = 750,
+            },
+            {
+                label = "Bed Dresser A",
+                object = "aegrien_beddresser1_a",
+                price = 750,
+            },
+            {
+                label = "Bed Dresser B",
+                object = "aegrien_beddresser1_b",
+                price = 750,
+            },
+            {
+                label = "Bed Dresser C",
+                object = "aegrien_beddresser1_c",
+                price = 750,
+            },
+            {
+                label = "Bed Dresser D",
+                object = "aegrien_beddresser1_d",
+                price = 750,
+            },
+            {
+                label = "Bed table A",
+                object = "aegrien_bedtable1_a",
+                price = 750,
+            },
+            {
+                label = "Bed table B",
+                object = "aegrien_bedtable1_b",
+                price = 750,
+            },
+            {
+                label = "Bed table C",
+                object = "aegrien_bedtable1_c",
+                price = 750,
+            },
+            {
+                label = "Bed table D",
+                object = "aegrien_bedtable1_d",
+                price = 750,
+            },
+            {
+                label = "Pillow A",
+                object = "aegrien_pillow1_a",
+                price = 750,
+            },
+            {
+                label = "Pillow B",
+                object = "aegrien_pillow1_b",
+                price = 750,
+            },
+            {
+                label = "Pillow C",
+                object = "aegrien_pillow1_c",
+                price = 750,
+            },
+            {
+                label = "Pillow D",
+                object = "aegrien_pillow1_d",
+                price = 750,
+            },
+            {
+                label = "Rug A",
+                object = "aegrien_rug1_a",
+                price = 750,
+            },
+            {
+                label = "Rug B",
+                object = "aegrien_rug1_b",
+                price = 750,
+            },
+            {
+                label = "Rug C",
+                object = "aegrien_rug1_c",
+                price = 750,
+            },
+            {
+                label = "Rug D",
+                object = "aegrien_rug1_d",
+                price = 750,
+            },
+
+        }
+    },

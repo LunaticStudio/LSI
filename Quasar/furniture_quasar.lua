@@ -1,3 +1,12 @@
+Config.roomsData = {
+
+	{ id = 'lstudio', name = 'Lunatic Studio' },
+
+}
+
+
+
+
 ["ls_bathroom"] = {
     ["label"] = "Bathroom",
     ["items"] = {

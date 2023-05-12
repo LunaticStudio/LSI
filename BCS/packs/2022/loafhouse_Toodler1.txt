@@ -1,0 +1,530 @@
+    {
+label = "Toodler 1",
+        furniture = {
+            {
+                label = "Kids Table 1",
+                object = "ls_ibg_atable1_a",
+                price = 750,
+            },
+            {
+                label = "Kids Table 2",
+                object = "ls_ibg_atable1_b",
+                price = 750,
+            },
+            {
+                label = "Bed A 1",
+                object = "ls_ibg_bed1_a",
+                price = 750,
+            },
+            {
+                label = "Bed A 2",
+                object = "ls_ibg_bed1_b",
+                price = 750,
+            },
+            {
+                label = "Bed A 3",
+                object = "ls_ibg_bed1_c",
+                price = 750,
+            },
+            {
+                label = "Bed A 4",
+                object = "ls_ibg_bed1_d",
+                price = 750,
+            },
+            {
+                label = "Bed B 1",
+                object = "ls_ibg_bed3_a",
+                price = 750,
+            },
+            {
+                label = "Bed B 2",
+                object = "ls_ibg_bed3_b",
+                price = 750,
+            },
+            {
+                label = "Bed B 3",
+                object = "ls_ibg_bed3_c",
+                price = 750,
+            },
+            {
+                label = "Bed C 1",
+                object = "ls_ibg_bed6_a",
+                price = 750,
+            },
+            {
+                label = "Bed C 2",
+                object = "ls_ibg_bed6_b",
+                price = 750,
+            },
+            {
+                label = "Bed C 3",
+                object = "ls_ibg_bed6_c",
+                price = 750,
+            },
+            {
+                label = "Bed C 4",
+                object = "ls_ibg_bed6_d",
+                price = 750,
+            },
+            {
+                label = "Bed C 5",
+                object = "ls_ibg_bed6_e",
+                price = 750,
+            },
+            {
+                label = "Bed C 6",
+                object = "ls_ibg_bed6_f",
+                price = 750,
+            },
+            {
+                label = "Bed C 7",
+                object = "ls_ibg_bed6_g",
+                price = 750,
+            },
+            {
+                label = "Bed C 8",
+                object = "ls_ibg_bed6_h",
+                price = 750,
+            },
+            {
+                label = "Desk A 1",
+                object = "ls_ibg_desk1_a",
+                price = 750,
+            },
+            {
+                label = "Desk A 2",
+                object = "ls_ibg_desk1_b",
+                price = 750,
+            },
+            {
+                label = "Desk A 3",
+                object = "ls_ibg_desk1_c",
+                price = 750,
+            },
+            {
+                label = "Desk A 4",
+                object = "ls_ibg_desk1_d",
+                price = 750,
+            },
+            {
+                label = "Desk A 5",
+                object = "ls_ibg_desk1_e",
+                price = 750,
+            },
+            {
+                label = "Desk A 6",
+                object = "ls_ibg_desk1_f",
+                price = 750,
+            },
+            {
+                label = "Desk B 1",
+                object = "ls_ibg_desk2_a",
+                price = 750,
+            },
+            {
+                label = "Desk B 2",
+                object = "ls_ibg_desk2_b",
+                price = 750,
+            },
+            {
+                label = "Desk B 3",
+                object = "ls_ibg_desk2_c",
+                price = 750,
+            },
+            {
+                label = "Girafa Toy",
+                object = "ls_ibg_girafa",
+                price = 750,
+            },
+            {
+                label = "Lamp A 1",
+                object = "ls_ibg_lamp4_a",
+                price = 750,
+            },
+            {
+                label = "Lamp A 2",
+                object = "ls_ibg_lamp4_b",
+                price = 750,
+            },
+            {
+                label = "Lamp A 3",
+                object = "ls_ibg_lamp4_c",
+                price = 750,
+            },
+            {
+                label = "Lamp A 4",
+                object = "ls_ibg_lamp4_e",
+                price = 750,
+            },
+            {
+                label = "Lamp A 5",
+                object = "ls_ibg_lamp4_f",
+                price = 750,
+            },
+            {
+                label = "Light A 1",
+                object = "ls_ibg_light1_a",
+                price = 750,
+            },
+            {
+                label = "Light A 2",
+                object = "ls_ibg_light1_b",
+                price = 750,
+            },
+            {
+                label = "Light A 3",
+                object = "ls_ibg_light1_c",
+                price = 750,
+            },
+            {
+                label = "Light A 4",
+                object = "ls_ibg_light1_d",
+                price = 750,
+            },
+            {
+                label = "LoveSeat A 1",
+                object = "ls_ibg_lseat2_a",
+                price = 750,
+            },
+            {
+                label = "LoveSeat A 2",
+                object = "ls_ibg_lseat2_b",
+                price = 750,
+            },
+            {
+                label = "LoveSeat A 3",
+                object = "ls_ibg_lseat2_c",
+                price = 750,
+            },
+            {
+                label = "Mezanino A 1",
+                object = "ls_ibg_meza1_a",
+                price = 750,
+            },
+            {
+                label = "Mezanino A 2",
+                object = "ls_ibg_meza1_b",
+                price = 750,
+            },
+            {
+                label = "Mezanino A 3",
+                object = "ls_ibg_meza1_c",
+                price = 750,
+            },
+            {
+                label = "Mezanino A 4",
+                object = "ls_ibg_meza1_d",
+                price = 750,
+            },
+            {
+                label = "Mezanino A 5",
+                object = "ls_ibg_meza1_e",
+                price = 750,
+            },
+            {
+                label = "Mezanino A 6",
+                object = "ls_ibg_meza1_f",
+                price = 750,
+            },
+            {
+                label = "PBoard A 1",
+                object = "ls_ibg_pboard1_a",
+                price = 750,
+            },
+            {
+                label = "PBoard A 2",
+                object = "ls_ibg_pboard1_b",
+                price = 750,
+            },
+            {
+                label = "PBoard A 3",
+                object = "ls_ibg_pboard1_c",
+                price = 750,
+            },
+            {
+                label = "PBoard A 4",
+                object = "ls_ibg_pboard1_d",
+                price = 750,
+            },
+            {
+                label = "PBoard A 5",
+                object = "ls_ibg_pboard1_e",
+                price = 750,
+            },
+            {
+                label = "PBoard A 6",
+                object = "ls_ibg_pboard1_f",
+                price = 750,
+            },
+            {
+                label = "PBoard A 7",
+                object = "ls_ibg_pboard1_g",
+                price = 750,
+            },
+            {
+                label = "Rug A 1",
+                object = "ls_ibg_rug2_a",
+                price = 750,
+            },
+            {
+                label = "Rug A 2",
+                object = "ls_ibg_rug2_b",
+                price = 750,
+            },
+            {
+                label = "Rug A 3",
+                object = "ls_ibg_rug2_c",
+                price = 750,
+            },
+            {
+                label = "Rug A 4",
+                object = "ls_ibg_rug2_d",
+                price = 750,
+            },
+            {
+                label = "Rug A 5",
+                object = "ls_ibg_rug2_e",
+                price = 750,
+            },
+            {
+                label = "Rug A 6",
+                object = "ls_ibg_rug2_f",
+                price = 750,
+            },
+            {
+                label = "Sit A 1",
+                object = "ls_ibg_seat2_a",
+                price = 750,
+            },
+            {
+                label = "Sit A 2",
+                object = "ls_ibg_seat2_b",
+                price = 750,
+            },
+            {
+                label = "Sit A 3",
+                object = "ls_ibg_seat2_c",
+                price = 750,
+            },
+            {
+                label = "Sit B 1",
+                object = "ls_ibg_seat3_a",
+                price = 750,
+            },
+            {
+                label = "Sit B 2",
+                object = "ls_ibg_seat3_b",
+                price = 750,
+            },
+            {
+                label = "Sit B 3",
+                object = "ls_ibg_seat3_c",
+                price = 750,
+            },
+            {
+                label = "Shelf A 1",
+                object = "ls_ibg_shelf1_a",
+                price = 750,
+            },
+            {
+                label = "Shelf A 2",
+                object = "ls_ibg_shelf1_b",
+                price = 750,
+            },
+            {
+                label = "Shelf A 3",
+                object = "ls_ibg_shelf1_c",
+                price = 750,
+            },
+            {
+                label = "Shelf A 4",
+                object = "ls_ibg_shelf1_d",
+                price = 750,
+            },
+            {
+                label = "Shelf B 1",
+                object = "ls_ibg_shelf2_a",
+                price = 750,
+            },
+            {
+                label = "Shelf B 2",
+                object = "ls_ibg_shelf2_b",
+                price = 750,
+            },
+            {
+                label = "Shelf C 1",
+                object = "ls_ibg_shelf6_a",
+                price = 750,
+            },
+            {
+                label = "Shelf C 2",
+                object = "ls_ibg_shelf6_b",
+                price = 750,
+            },
+            {
+                label = "Shelf C 3",
+                object = "ls_ibg_shelf6_c",
+                price = 750,
+            },
+            {
+                label = "Tent A 1",
+                object = "ls_ibg_tent1_a",
+                price = 750,
+            },
+            {
+                label = "Tent A 2",
+                object = "ls_ibg_tent1_b",
+                price = 750,
+            },
+            {
+                label = "Tent A 3",
+                object = "ls_ibg_tent1_c",
+                price = 750,
+            },
+            {
+                label = "Tent A 4",
+                object = "ls_ibg_tent1_d",
+                price = 750,
+            },
+            {
+                label = "Tent B 1",
+                object = "ls_ibg_tent2_a",
+                price = 750,
+            },
+            {
+                label = "Tent B 2",
+                object = "ls_ibg_tent2_b",
+                price = 750,
+            },
+            {
+                label = "Tent B 3",
+                object = "ls_ibg_tent2_c",
+                price = 750,
+            },
+            {
+                label = "Tent B 4",
+                object = "ls_ibg_tent2_d",
+                price = 750,
+            },
+            {
+                label = "Tent B 5",
+                object = "ls_ibg_tent2_e",
+                price = 750,
+            },
+            {
+                label = "Tent B 6",
+                object = "ls_ibg_tent2_f",
+                price = 750,
+            },
+            {
+                label = "Toy A 1",
+                object = "ls_ibg_toy5_a",
+                price = 750,
+            },
+            {
+                label = "Toy A 2",
+                object = "ls_ibg_toy5_b",
+                price = 750,
+            },
+            {
+                label = "Toy A 3",
+                object = "ls_ibg_toy5_c",
+                price = 750,
+            },
+            {
+                label = "Toy A 4",
+                object = "ls_ibg_toy5_d",
+                price = 750,
+            },
+            {
+                label = "Toy A 5",
+                object = "ls_ibg_toy5_e",
+                price = 750,
+            },
+            {
+                label = "Toy A 6",
+                object = "ls_ibg_toy5_f",
+                price = 750,
+            },
+            {
+                label = "Toy B 1",
+                object = "ls_ibg_toy9_a",
+                price = 750,
+            },
+            {
+                label = "Toy B 2",
+                object = "ls_ibg_toy9_b",
+                price = 750,
+            },
+            {
+                label = "Toy B 3",
+                object = "ls_ibg_toy9_c",
+                price = 750,
+            },
+            {
+                label = "Toy B 4",
+                object = "ls_ibg_toy9_d",
+                price = 750,
+            },
+            {
+                label = "Toy B 5",
+                object = "ls_ibg_toy9_e",
+                price = 750,
+            },
+            {
+                label = "ToyBox A 1",
+                object = "ls_ibg_toybox4_a",
+                price = 750,
+            },
+            {
+                label = "ToyBox A 2",
+                object = "ls_ibg_toybox4_b",
+                price = 750,
+            },
+            {
+                label = "ToyBox A 3",
+                object = "ls_ibg_toybox4_c",
+                price = 750,
+            },
+            {
+                label = "ToyBox A 4",
+                object = "ls_ibg_toybox4_d",
+                price = 750,
+            },
+            {
+                label = "ToyBox A 5",
+                object = "ls_ibg_toybox4_e",
+                price = 750,
+            },
+            {
+                label = "Wall Decoration A 1",
+                object = "ls_ibg_wall3_a",
+                price = 750,
+            },
+            {
+                label = "Wall Decoration A 2",
+                object = "ls_ibg_wall3_b",
+                price = 750,
+            },
+            {
+                label = "Wall Decoration A 3",
+                object = "ls_ibg_wall3_c",
+                price = 750,
+            },
+            {
+                label = "Wall Decoration A 4",
+                object = "ls_ibg_wall3_d",
+                price = 750,
+            },
+            {
+                label = "Wall Decoration A 5",
+                object = "ls_ibg_wall3_e",
+                price = 750,
+            },
+            {
+                label = "Wall Dec Flowers",
+                object = "ls_ibg_wallflower",
+                price = 750,
+            },
+        }
+    },

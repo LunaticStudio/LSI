@@ -1,0 +1,405 @@
+    {
+label = "Hokaido LivRoom",
+furniture = {
+    {
+        label = "Seat 1A",
+        object = "hokaido_1sita_a",
+        price = 750,
+    },
+    {
+        label = "Seat 1B",
+        object = "hokaido_1sita_b",
+        price = 750,
+    },
+    {
+        label = "Seat 1C",
+        object = "hokaido_1sita_c",
+        price = 750,
+    },
+    {
+        label = "Seat 1D",
+        object = "hokaido_1sita_d",
+        price = 750,
+    },
+    {
+        label = "Seat 2A",
+        object = "hokaido_1sitb_a",
+        price = 750,
+    },
+    {
+        label = "Seat 2B",
+        object = "hokaido_1sitb_b",
+        price = 750,
+    },
+    {
+        label = "Seat 2C",
+        object = "hokaido_1sitb_c",
+        price = 750,
+    },
+    {
+        label = "Seat 3A",
+        object = "hokaido_1sitc_a",
+        price = 750,
+    },
+    {
+        label = "Seat 3B",
+        object = "hokaido_1sitc_b",
+        price = 750,
+    },
+    {
+        label = "Seat 3C",
+        object = "hokaido_1sitc_c",
+        price = 750,
+    },
+    {
+        label = "Seat 4A",
+        object = "hokaido_1sitd_a",
+        price = 750,
+    },
+    {
+        label = "Seat 4B",
+        object = "hokaido_1sitd_b",
+        price = 750,
+    },
+    {
+        label = "Seat 4C",
+        object = "hokaido_1sitd_c",
+        price = 750,
+    },
+    {
+        label = "Seat 4D",
+        object = "hokaido_1sitd_d",
+        price = 750,
+    },
+    {
+        label = "LoveSeat 1A",
+        object = "hokaido_2sita_a",
+        price = 750,
+    },
+    {
+        label = "LoveSeat 1B",
+        object = "hokaido_2sita_b",
+        price = 750,
+    },
+    {
+        label = "LoveSeat 1C",
+        object = "hokaido_2sita_c",
+        price = 750,
+    },
+    {
+        label = "LoveSeat 1D",
+        object = "hokaido_2sita_d",
+        price = 750,
+    },
+    {
+        label = "LoveSeat 2A",
+        object = "hokaido_2sitb_a",
+        price = 750,
+    },
+    {
+        label = "LoveSeat 2B",
+        object = "hokaido_2sitb_b",
+        price = 750,
+    },
+    {
+        label = "LoveSeat 2C",
+        object = "hokaido_2sitb_c",
+        price = 750,
+    },
+    {
+        label = "LoveSeat 2D",
+        object = "hokaido_2sitb_d",
+        price = 750,
+    },
+    {
+        label = "LoveSeat 3A",
+        object = "hokaido_2sitc_a",
+        price = 750,
+    },
+    {
+        label = "LoveSeat 3B",
+        object = "hokaido_2sitc_b",
+        price = 750,
+    },
+    {
+        label = "LoveSeat 3C",
+        object = "hokaido_2sitc_c",
+        price = 750,
+    },
+    {
+        label = "LoveSeat 3D",
+        object = "hokaido_2sitc_d",
+        price = 750,
+    },
+    {
+        label = "LoveSeat 4A",
+        object = "hokaido_2sitd_a",
+        price = 750,
+    },
+    {
+        label = "LoveSeat 4B",
+        object = "hokaido_2sitd_b",
+        price = 750,
+    },
+    {
+        label = "LoveSeat 4C",
+        object = "hokaido_2sitd_c",
+        price = 750,
+    },
+    {
+        label = "LoveSeat 4D",
+        object = "hokaido_2sitd_d",
+        price = 750,
+    },
+    {
+        label = "Sofa 1A",
+        object = "hokaido_3sita_a",
+        price = 750,
+    },
+    {
+        label = "Sofa 1B",
+        object = "hokaido_3sita_b",
+        price = 750,
+    },
+    {
+        label = "Sofa 1C",
+        object = "hokaido_3sita_c",
+        price = 750,
+    },
+    {
+        label = "Sofa 1D",
+        object = "hokaido_3sita_d",
+        price = 750,
+    },
+    {
+        label = "Sofa 1E",
+        object = "hokaido_3sita_e",
+        price = 750,
+    },
+    {
+        label = "Sofa 1F",
+        object = "hokaido_3sita_f",
+        price = 750,
+    },
+    {
+        label = "Sofa 2A",
+        object = "hokaido_3sitb_a",
+        price = 750,
+    },
+    {
+        label = "Sofa 2B",
+        object = "hokaido_3sitb_b",
+        price = 750,
+    },
+    {
+        label = "Sofa 2C",
+        object = "hokaido_3sitb_c",
+        price = 750,
+    },
+    {
+        label = "Sofa 2D",
+        object = "hokaido_3sitb_d",
+        price = 750,
+    },
+    {
+        label = "Coffee Table 1A",
+        object = "hokaido_cftablea_a",
+        price = 750,
+    },
+    {
+        label = "Coffee Table 1B",
+        object = "hokaido_cftablea_b",
+        price = 750,
+    },
+    {
+        label = "Coffee Table 1C",
+        object = "hokaido_cftablea_c",
+        price = 750,
+    },
+    {
+        label = "Coffee Table 1D",
+        object = "hokaido_cftablea_d",
+        price = 750,
+    },
+    {
+        label = "Coffee Table 2A",
+        object = "hokaido_cftableb_a",
+        price = 750,
+    },
+    {
+        label = "Coffee Table 2B",
+        object = "hokaido_cftableb_b",
+        price = 750,
+    },
+    {
+        label = "Coffee Table 2C",
+        object = "hokaido_cftableb_c",
+        price = 750,
+    },
+    {
+        label = "Coffee Table 3A",
+        object = "hokaido_cftablec_a",
+        price = 750,
+    },
+    {
+        label = "Coffee Table 3B",
+        object = "hokaido_cftablec_b",
+        price = 750,
+    },
+    {
+        label = "Coffee Table 3C",
+        object = "hokaido_cftablec_c",
+        price = 750,
+    },
+    {
+        label = "Coffee Table 3D",
+        object = "hokaido_cftablec_d",
+        price = 750,
+    },
+    {
+        label = "Coffee Table 4A",
+        object = "hokaido_cftabled_a",
+        price = 750,
+    },
+    {
+        label = "Coffee Table 4B",
+        object = "hokaido_cftabled_b",
+        price = 750,
+    },
+    {
+        label = "Coffee Table 4C",
+        object = "hokaido_cftabled_c",
+        price = 750,
+    },
+    {
+        label = "Coffee Table 4D",
+        object = "hokaido_cftabled_d",
+        price = 750,
+    },
+    {
+        label = "Decoration 1A",
+        object = "hokaido_decora_a",
+        price = 750,
+    },
+    {
+        label = "Decoration 1B",
+        object = "hokaido_decora_b",
+        price = 750,
+    },
+    {
+        label = "Decoration 1C",
+        object = "hokaido_decora_c",
+        price = 750,
+    },
+    {
+        label = "Decoration 2A",
+        object = "hokaido_decorb_a",
+        price = 750,
+    },
+    {
+        label = "Decoration 2B",
+        object = "hokaido_decorb_b",
+        price = 750,
+    },
+    {
+        label = "Decoration 2C",
+        object = "hokaido_decorb_c",
+        price = 750,
+    },
+    {
+        label = "Decoration 2D",
+        object = "hokaido_decorb_d",
+        price = 750,
+    },
+    {
+        label = "Dresser A",
+        object = "hokaido_dresser_a",
+        price = 750,
+    },
+    {
+        label = "Dresser B",
+        object = "hokaido_dresser_b",
+        price = 750,
+    },
+    {
+        label = "EndTable 1A",
+        object = "hokaido_endtablea_a",
+        price = 750,
+    },
+    {
+        label = "EndTable 1B",
+        object = "hokaido_endtablea_b",
+        price = 750,
+    },
+    {
+        label = "EndTable 2A",
+        object = "hokaido_endtableb_a",
+        price = 750,
+    },
+    {
+        label = "EndTable 2B",
+        object = "hokaido_endtableb_b",
+        price = 750,
+    },
+    {
+        label = "EndTable 2C",
+        object = "hokaido_endtableb_c",
+        price = 750,
+    },
+    {
+        label = "EndTable 2D",
+        object = "hokaido_endtableb_d",
+        price = 750,
+    },
+    {
+        label = "Rug 1",
+        object = "hokaido_rug_a",
+        price = 750,
+    },
+    {
+        label = "Rug 2",
+        object = "hokaido_rug_b",
+        price = 750,
+    },
+    {
+        label = "Rug 3",
+        object = "hokaido_rug_c",
+        price = 750,
+    },
+    {
+        label = "Rug 4",
+        object = "hokaido_rug_d",
+        price = 750,
+    },
+    {
+        label = "Shelf 1A",
+        object = "hokaido_shelfa_a",
+        price = 750,
+    },
+    {
+        label = "Shelf 1B",
+        object = "hokaido_shelfa_b",
+        price = 750,
+    },
+    {
+        label = "Shelf 1C",
+        object = "hokaido_shelfa_c",
+        price = 750,
+    },
+    {
+        label = "Shelf 1D",
+        object = "hokaido_shelfa_d",
+        price = 750,
+    },
+    {
+        label = "Shelf 2A",
+        object = "hokaido_shelfb_a",
+        price = 750,
+    },
+    {
+        label = "Shelf 2B",
+        object = "hokaido_shelfb_b",
+        price = 750,
+    },
+}
+},

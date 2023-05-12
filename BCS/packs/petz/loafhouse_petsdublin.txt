@@ -1,0 +1,239 @@
+    {
+label = "petz Dublin",
+        furniture = {
+            {
+                label = "Bed A 1",
+                object = "petz_dublin_bed1_a",
+                price = 750,
+            },
+            {
+                label = "Bed A 2",
+                object = "petz_dublin_bed1_b",
+                price = 750,
+            },
+            {
+                label = "Bed A 3",
+                object = "petz_dublin_bed1_c",
+                price = 750,
+            },
+            {
+                label = "Bed A 4",
+                object = "petz_dublin_bed1_d",
+                price = 750,
+            },
+            {
+                label = "Bed A 5",
+                object = "petz_dublin_bed1_e",
+                price = 750,
+            },
+            {
+                label = "Bed A 6",
+                object = "petz_dublin_bed1_f",
+                price = 750,
+            },
+            {
+                label = "Bed B 1",
+                object = "petz_dublin_bed2_a",
+                price = 750,
+            },
+            {
+                label = "Bed B 2",
+                object = "petz_dublin_bed2_b",
+                price = 750,
+            },
+            {
+                label = "Bed B 3",
+                object = "petz_dublin_bed2_c",
+                price = 750,
+            },
+            {
+                label = "Bed B 4",
+                object = "petz_dublin_bed2_d",
+                price = 750,
+            },
+            {
+                label = "Bed B 5",
+                object = "petz_dublin_bed2_e",
+                price = 750,
+            },
+            {
+                label = "Bed B 6",
+                object = "petz_dublin_bed2_f",
+                price = 750,
+            },
+            {
+                label = "Bed B 7",
+                object = "petz_dublin_bed2_g",
+                price = 750,
+            },
+            {
+                label = "Bed B 8",
+                object = "petz_dublin_bed2_h",
+                price = 750,
+            },
+            {
+                label = "Bed B 9",
+                object = "petz_dublin_bed2_i",
+                price = 750,
+            },
+            {
+                label = "Bed B 10",
+                object = "petz_dublin_bed2_j",
+                price = 750,
+            },
+            {
+                label = "CoffeeTable A 1",
+                object = "petz_dublin_cf1_a",
+                price = 750,
+            },
+            {
+                label = "CoffeeTable A 2",
+                object = "petz_dublin_cf1_b",
+                price = 750,
+            },
+            {
+                label = "CoffeeTable A 3",
+                object = "petz_dublin_cf1_c",
+                price = 750,
+            },
+            {
+                label = "CoffeeTable A 4",
+                object = "petz_dublin_cf1_d",
+                price = 750,
+            },
+            {
+                label = "CoffeeTable A 5",
+                object = "petz_dublin_cf1_e",
+                price = 750,
+            },
+            {
+                label = "CoffeeTable B 1",
+                object = "petz_dublin_cf2_a",
+                price = 750,
+            },
+            {
+                label = "CoffeeTable B 2",
+                object = "petz_dublin_cf2_b",
+                price = 750,
+            },
+            {
+                label = "CoffeeTable B 3",
+                object = "petz_dublin_cf2_c",
+                price = 750,
+            },
+            {
+                label = "CoffeeTable B 4",
+                object = "petz_dublin_cf2_d",
+                price = 750,
+            },
+            {
+                label = "CoffeeTable B 5",
+                object = "petz_dublin_cf2_e",
+                price = 750,
+            },
+            {
+                label = "Decoration A 1",
+                object = "petz_dublin_decor1_a",
+                price = 750,
+            },
+            {
+                label = "Decoration A 2",
+                object = "petz_dublin_decor1_b",
+                price = 750,
+            },
+            {
+                label = "Decoration A 3",
+                object = "petz_dublin_decor1_c",
+                price = 750,
+            },
+            {
+                label = "Decoration A 4",
+                object = "petz_dublin_decor1_d",
+                price = 750,
+            },
+            {
+                label = "Decoration A 5",
+                object = "petz_dublin_decor1_e",
+                price = 750,
+            },
+            {
+                label = "Decoration B 1",
+                object = "petz_dublin_decor2_a",
+                price = 750,
+            },
+            {
+                label = "Decoration B 2",
+                object = "petz_dublin_decor2_b",
+                price = 750,
+            },
+            {
+                label = "Decoration B 3",
+                object = "petz_dublin_decor2_c",
+                price = 750,
+            },
+            {
+                label = "Decoration B 4",
+                object = "petz_dublin_decor2_d",
+                price = 750,
+            },
+            {
+                label = "Food Tray 1",
+                object = "petz_dublin_food_a",
+                price = 750,
+            },
+            {
+                label = "Food Tray 2",
+                object = "petz_dublin_food_b",
+                price = 750,
+            },
+            {
+                label = "Food Tray 3",
+                object = "petz_dublin_food_c",
+                price = 750,
+            },
+            {
+                label = "Food Tray 4",
+                object = "petz_dublin_food_d",
+                price = 750,
+            },
+            {
+                label = "Toy 1",
+                object = "petz_dublin_toy_a",
+                price = 750,
+            },{
+                label = "Toy 2",
+                object = "petz_dublin_toy_b",
+                price = 750,
+            },
+            {
+                label = "Toy 3",
+                object = "petz_dublin_toy_c",
+                price = 750,
+            },
+            {
+                label = "Toy 4",
+                object = "petz_dublin_toy_d",
+                price = 750,
+            },
+            {
+                label = "Toy 5",
+                object = "petz_dublin_toy_e",
+                price = 750,
+            },
+            {
+                label = "Toy 6",
+                object = "petz_dublin_toy_f",
+                price = 750,
+            },
+            {
+                label = "Toy 7",
+                object = "petz_dublin_toy_g",
+                price = 750,
+            },
+            {
+                label = "Toy 8",
+                object = "petz_dublin_toy_h",
+                price = 750,
+            },
+        }
+    },

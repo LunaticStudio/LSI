@@ -1,0 +1,270 @@
+    {
+label = "Friends",
+        furniture = {
+            {
+                label = "Friends Door Frame",
+                object = "friends_adoorframesitcom",
+                price = 750,
+            },
+            {
+                label = "Friends Bed",
+                object = "friends_bed",
+                price = 750,
+            },
+            {
+                label = "Friends Coffee Table 1",
+                object = "friends_cftable_a",
+                price = 750,
+            },
+            {
+                label = "Friends Coffee Table 2",
+                object = "friends_cftable_b",
+                price = 750,
+            },
+            {
+                label = "Friends Coffee Table 3",
+                object = "friends_cftable_c",
+                price = 750,
+            },
+            {
+                label = "Friends Clock 1",
+                object = "friends_clock_a",
+                price = 750,
+            },
+            {
+                label = "Friends Clock 2",
+                object = "friends_clock_b",
+                price = 750,
+            },
+            {
+                label = "Friends Clock 3",
+                object = "friends_clock_c",
+                price = 750,
+            },
+            {
+                label = "Friends Couch 1",
+                object = "friends_couch1_a",
+                price = 750,
+            },
+            {
+                label = "Friends Couch 2",
+                object = "friends_couch1_b",
+                price = 750,
+            },
+            {
+                label = "Friends Couch 3",
+                object = "friends_couch1_c",
+                price = 750,
+            },
+            {
+                label = "Friends Dogdecoration 1",
+                object = "friends_dogdec_a",
+                price = 750,
+            },
+            {
+                label = "Friends Dogdecoration 2",
+                object = "friends_dogdec_b",
+                price = 750,
+            },
+            {
+                label = "Friends Dogdecoration 3",
+                object = "friends_dogdec_c",
+                price = 750,
+            },
+            {
+                label = "Friends Dresser A 1",
+                object = "friends_dressera_a",
+                price = 750,
+            },
+            {
+                label = "Friends Dresser A 2",
+                object = "friends_dressera_b",
+                price = 750,
+            },
+            {
+                label = "Friends Dresser A 3",
+                object = "friends_dressera_c",
+                price = 750,
+            },
+            {
+                label = "Friends EndTable A 1",
+                object = "friends_endtbla_a",
+                price = 750,
+            },
+            {
+                label = "Friends EndTable A 2",
+                object = "friends_endtbla_b",
+                price = 750,
+            },
+            {
+                label = "Friends EndTable A 3",
+                object = "friends_endtbla_c",
+                price = 750,
+            },
+            {
+                label = "Friends EndTable A 4",
+                object = "friends_endtbla_d",
+                price = 750,
+            },
+            {
+                label = "Friends EndTable B 1",
+                object = "friends_endtblb_a",
+                price = 750,
+            },
+            {
+                label = "Friends EndTable B 2",
+                object = "friends_endtblb_b",
+                price = 750,
+            },
+            {
+                label = "Friends EndTable B 3",
+                object = "friends_endtblb_c",
+                price = 750,
+            },
+            {
+                label = "Friends Football Table 1",
+                object = "friends_football_a",
+                price = 750,
+            },
+            {
+                label = "Friends Football Table 2",
+                object = "friends_football_b",
+                price = 750,
+            },
+            {
+                label = "Friends Football Table 3",
+                object = "friends_football_c",
+                price = 750,
+            },
+            {
+                label = "Friends Dresser 1",
+                object = "friends_hdresser_a",
+                price = 750,
+            },
+            {
+                label = "Friends Dresser 2",
+                object = "friends_hdresser_b",
+                price = 750,
+            },
+            {
+                label = "Friends Dresser 3",
+                object = "friends_hdresser_c",
+                price = 750,
+            },
+            {
+                label = "Friends LivChair 1",
+                object = "friends_livchair_a",
+                price = 750,
+            },
+            {
+                label = "Friends LivChair 2",
+                object = "friends_livchair_b",
+                price = 750,
+            },
+            {
+                label = "Friends LivChair 3",
+                object = "friends_livchair_c",
+                price = 750,
+            },
+            {
+                label = "Friends Pinguim a",
+                object = "friends_pinguim_a",
+                price = 750,
+            },
+            {
+                label = "Friends Pinguim b",
+                object = "friends_pinguim_b",
+                price = 750,
+            },
+            {
+                label = "Friends Pinguim c",
+                object = "friends_pinguim_c",
+                price = 750,
+            },
+            {
+                label = "Friends Puff A",
+                object = "friends_puff_a",
+                price = 750,
+            },
+            {
+                label = "Friends Puff B",
+                object = "friends_puff_b",
+                price = 750,
+            },
+            {
+                label = "Friends Puff C",
+                object = "friends_puff_c",
+                price = 750,
+            },
+            {
+                label = "Friends Refrigerator A",
+                object = "friends_refrigerator_a",
+                price = 750,
+            },
+            {
+                label = "Friends Refrigerator B",
+                object = "friends_refrigerator_b",
+                price = 750,
+            },
+            {
+                label = "Friends Shelf A 1",
+                object = "friends_shelfa_a",
+                price = 750,
+            },
+            {
+                label = "Friends Shelf A 2",
+                object = "friends_shelfa_b",
+                price = 750,
+            },
+            {
+                label = "Friends Shelf A 3",
+                object = "friends_shelfa_c",
+                price = 750,
+            },
+            {
+                label = "Friends Shelf B 1",
+                object = "friends_shelfb_a",
+                price = 750,
+            },
+            {
+                label = "Friends Shelf B 2",
+                object = "friends_shelfb_b",
+                price = 750,
+            },
+            {
+                label = "Friends Shelf B 3",
+                object = "friends_shelfb_c",
+                price = 750,
+            },
+            {
+                label = "Friends Sink 1",
+                object = "friends_sink_a",
+                price = 750,
+            },
+            {
+                label = "Friends Sink 2",
+                object = "friends_sink_b",
+                price = 750,
+            },
+            {
+                label = "Friends Sink 3",
+                object = "friends_sink_c",
+                price = 750,
+            },
+            {
+                label = "Friends Table 1",
+                object = "friends_tablea_a",
+                price = 750,
+            },
+            {
+                label = "Friends Table 2",
+                object = "friends_tablea_b",
+                price = 750,
+            },
+            {
+                label = "Friends Table 3",
+                object = "friends_tablea_c",
+                price = 750,
+            },   
+        }
+    },

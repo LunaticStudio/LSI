@@ -1,6 +1,6 @@
     {
-label="Imola LivRoom",
-        furniture={
+        label="Imola LivRoom",
+        list={
             {
                 label="1 Sit A 1",
                 model="imola_1sita_a",

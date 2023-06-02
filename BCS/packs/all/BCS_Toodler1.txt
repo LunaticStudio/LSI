@@ -1,6 +1,6 @@
     {
-label="Toodler 1",
-        furniture={
+        label="Toodler 1",
+        list={
             {
                 label="Kids Table 1",
                 model="ls_ibg_atable1_a",

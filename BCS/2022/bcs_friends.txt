@@ -1,6 +1,6 @@
     {
-label="Friends",
-        furniture={
+        label="Friends",
+        list={
             {
                 label="Friends Door Frame",
                 model="friends_adoorframesitcom",

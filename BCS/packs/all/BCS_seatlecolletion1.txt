@@ -1,125 +1,125 @@
     {
-label="Seatle Bedroom",
-furniture={
-    {
-        label="Bed 1a",
-        model="seatle_bed1_a",
-        price=750,
+        label="Seatle Bedroom",
+        list={
+            {
+                label="Bed 1a",
+                model="seatle_bed1_a",
+                price=750,
+            },
+            {
+                label="Bed 1b",
+                model="seatle_bed1_b",
+                price=750,
+            },
+            {
+                label="Bed2 A",
+                model="seatle_bed2_a",
+                price=750,
+            },
+            {
+                label="Bed2 B",
+                model="seatle_bed2_b",
+                price=750,
+            },
+            {
+                label="Bed2 C",
+                model="seatle_bed2_c",
+                price=750,
+            },
+            {
+                label="Bed3 A",
+                model="seatle_bed3_a",
+                price=750,
+            },
+            {
+                label="Dresser 1A",
+                model="seatle_dresser1_a",
+                price=750,
+            },
+            {
+                label="Dresser 2A",
+                model="seatle_dresser2_a",
+                price=750,
+            },
+            {
+                label="Dresser 2B",
+                model="seatle_dresser2_b",
+                price=750,
+            },
+            {
+                label="End Table 1A",
+                model="seatle_endtable1_a",
+                price=750,
+            },
+            {
+                label="End Table 1B",
+                model="seatle_endtable1_b",
+                price=750,
+            },
+            {
+                label="End Table 2A",
+                model="seatle_endtable2_a",
+                price=750,
+            },
+            {
+                label="End Table 3A",
+                model="seatle_endtable3_a",
+                price=750,
+            },
+            {
+                label="Pillow 2A",
+                model="seatle_pillow2_a",
+                price=750,
+            },
+            {
+                label="Pillow 2b",
+                model="seatle_pillow2_b",
+                price=750,
+            },
+            {
+                label="Pillow 3A",
+                model="seatle_pillow3_a",
+                price=750,
+            },
+            {
+                label="Pillow 3B",
+                model="seatle_pillow3_b",
+                price=750,
+            },
+            {
+                label="Plant Vase A",
+                model="seatle_plantvase_a",
+                price=750,
+            },
+            {
+                label="Plant Vase B",
+                model="seatle_plantvase_b",
+                price=750,
+            },
+            {
+                label="Rug A",
+                model="seatle_rug_a",
+                price=750,
+            },
+            {
+                label="Rub B",
+                model="seatle_rug_b",
+                price=750,
+            },
+            {
+                label="Slider A",
+                model="seatle_slider1_a",
+                price=750,
+            },
+            {
+                label="Slider B",
+                model="seatle_slider2_a",
+                price=750,
+            },
+            {
+                label="Table",
+                model="seatle_table1_a",
+                price=750,
+            },
+        }
     },
-    {
-        label="Bed 1b",
-        model="seatle_bed1_b",
-        price=750,
-    },
-    {
-        label="Bed2 A",
-        model="seatle_bed2_a",
-        price=750,
-    },
-    {
-        label="Bed2 B",
-        model="seatle_bed2_b",
-        price=750,
-    },
-    {
-        label="Bed2 C",
-        model="seatle_bed2_c",
-        price=750,
-    },
-    {
-        label="Bed3 A",
-        model="seatle_bed3_a",
-        price=750,
-    },
-    {
-        label="Dresser 1A",
-        model="seatle_dresser1_a",
-        price=750,
-    },
-    {
-        label="Dresser 2A",
-        model="seatle_dresser2_a",
-        price=750,
-    },
-    {
-        label="Dresser 2B",
-        model="seatle_dresser2_b",
-        price=750,
-    },
-    {
-        label="End Table 1A",
-        model="seatle_endtable1_a",
-        price=750,
-    },
-    {
-        label="End Table 1B",
-        model="seatle_endtable1_b",
-        price=750,
-    },
-    {
-        label="End Table 2A",
-        model="seatle_endtable2_a",
-        price=750,
-    },
-    {
-        label="End Table 3A",
-        model="seatle_endtable3_a",
-        price=750,
-    },
-    {
-        label="Pillow 2A",
-        model="seatle_pillow2_a",
-        price=750,
-    },
-    {
-        label="Pillow 2b",
-        model="seatle_pillow2_b",
-        price=750,
-    },
-    {
-        label="Pillow 3A",
-        model="seatle_pillow3_a",
-        price=750,
-    },
-    {
-        label="Pillow 3B",
-        model="seatle_pillow3_b",
-        price=750,
-    },
-    {
-        label="Plant Vase A",
-        model="seatle_plantvase_a",
-        price=750,
-    },
-    {
-        label="Plant Vase B",
-        model="seatle_plantvase_b",
-        price=750,
-    },
-    {
-        label="Rug A",
-        model="seatle_rug_a",
-        price=750,
-    },
-    {
-        label="Rub B",
-        model="seatle_rug_b",
-        price=750,
-    },
-    {
-        label="Slider A",
-        model="seatle_slider1_a",
-        price=750,
-    },
-    {
-        label="Slider B",
-        model="seatle_slider2_a",
-        price=750,
-    },
-    {
-        label="Table",
-        model="seatle_table1_a",
-        price=750,
-    },
-},
-},

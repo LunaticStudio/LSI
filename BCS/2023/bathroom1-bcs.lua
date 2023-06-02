@@ -1,6 +1,6 @@
     {
         label="Bathroom 1",
-        furniture={
+        list={
             {
                 label="Soap A",
                 model="ls_bht1_soap1_a",

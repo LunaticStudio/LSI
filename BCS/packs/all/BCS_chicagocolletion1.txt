@@ -1,6 +1,6 @@
     {
         label="Chicago Bedroom",
-        furniture={
+        list={
             {
                 label="Bed 1a",
                 model="aegrien_bed1_a",
@@ -101,6 +101,5 @@
                 model="aegrien_rug1_d",
                 price=750,
             },
-
         }
     },

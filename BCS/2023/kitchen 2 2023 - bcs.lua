@@ -1,6 +1,6 @@
     {
         label="Kitchen 2 2023",
-        furniture={
+        list={
             {
                 label="Cabinet 1 A",
                 model="ls_kitcol2_cabint1_a",

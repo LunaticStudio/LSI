@@ -1,6 +1,6 @@
     {
-label="petz London",
-        furniture={
+        label="petz London",
+        list={
             {
                 label="Bee A 1",
                 model="petz_london_bed1_a",

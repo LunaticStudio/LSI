@@ -1,6 +1,6 @@
     {
-label="Dubai LivRoom",
-        furniture={
+        label="Dubai LivRoom",
+        list={
             {
                 label="1 Sit A 1",
                 model="dubai_1sita_a",
